@@ -1,1 +1,1 @@
-### [Go to the website!](http://comfreek.github.com/chrome-surface-theme/)
+A Reeder feel Chrome Theme

@@ -29,9 +29,9 @@
                 64
             ],
             "bookmark_text": [
-                18,
-                50,
-                114
+                79,
+                78,
+                73
             ],
             "ntp_background": [
                 255,
@@ -39,9 +39,9 @@
                 255
             ],
             "ntp_text": [
-                0,
-                0,
-                0
+                79,
+                78,
+                73
             ],
             "button_background": [
                 0,
@@ -58,12 +58,13 @@
             ]
         },
         "properties": {
-            "ntp_background_alignment": "bottom",
-            "ntp_background_repeat": "no-repeat"
+            "ntp_background_alignment": "left top",
+            "ntp_background_repeat": "repeat",
+            "ntp_logo_alternate":1
         }
     },
 
-    "name": "Surface (by @ComFreek)",
+    "name": "Reeder (by @hyspace)",
     "version": "1",
-    "description": "Google Chrome theme featuring the upcoming Microsoft Surface!"
+    "description": "Google Chrome theme with a Reeder look"
 }
